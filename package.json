@@ -1,0 +1,17 @@
+{
+  "name": "mern-3-work",
+  "version": "1.0.0",
+  "description": "practice some part of concept",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "passport": "^0.7.0",
+    "passport-jwt": "^4.0.1"
+  }
+}
